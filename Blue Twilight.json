@@ -3,37 +3,44 @@
         "author": "miwoomsmsmsm",
         "version": "1.0.0",
         "name": "Blurple Twilight",
-        "updater": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Blue%20Twilight.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Blue%20Twilight.json",
+        "license": "MIT"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Picsart_24-11-25_04-37-57-525.png"
+        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/BlurpleTwilightGradient.png",
+        "overlay_alpha": 125
     },
     "fonts": {
         "*": "https:\/\/github.com\/miwooscatrisadinha\/twilightblue\/raw\/refs\/heads\/main\/gg_sans_semibold.ttf"
     },
     "simple_colors": {
-        "accent": -14210904,
+        "accent": -14346056,
         "mention_highlight": 1094790574,
         "blocked_bg": -15000465,
         "background": 0,
         "background_secondary": 0,
-        "input_background": -1206845185,
+        "input_background": -15857321,
         "statusbar": 0,
         "active_channel": -368639922
     },
     "colors": {
-        "brand_new_360": -16773519,
-        "link": -14614337,
-        "link_500": -16770862,
-        "primary_dark_300": -14346056,
+        "brand_new_360": -14864206,
+        "link": -15138670,
+        "link_500": -16773506,
+        "primary_dark_300": -12302136,
         "primary_dark_630": 0,
         "primary_dark_600": 0,
         "primary_dark_660": -15463596,
-        "primary_dark_800": -15988937
+        "primary_dark_800": -15988937,
+        "primary_dark_400": -11380590,
+        "brand_new_560": -11247873,
+        "primary_dark_330": -4539718,
+        "primary_dark_360": -11116899,
+        "primary_300": -14408910
     },
     "drawable_tints": {
-        "ic_sidebar_pins_off_dark_24dp": -14346056,
-        "ic_sidebar_notifications_on_dark_24dp": -14346056,
+        "ic_sidebar_pins_off_dark_24dp": -12302136,
+        "ic_sidebar_notifications_on_dark_24dp": -12302136,
         "ic_channel_announcements": -10398465,
         "ic_channel_announcements_locked": -10398465,
         "ic_channel_text": -10398465,
@@ -41,8 +48,8 @@
         "ic_channel_text_nsfw": -10398465,
         "ic_channel_voice": -10398465,
         "ic_channel_voice_locked": -10398465,
-        "ic_sidebar_notifications_off_dark_24dp": -14346056,
-        "ic_sidebar_pins_on_light_24dp": -14346056
+        "ic_sidebar_notifications_off_dark_24dp": -12302136,
+        "ic_sidebar_pins_on_light_24dp": -12302136
     },
     "raws": {}
 }
