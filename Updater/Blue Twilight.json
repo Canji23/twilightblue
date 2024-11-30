@@ -7,11 +7,11 @@
         "license": "MIT"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/BlurpleTwilightGradient.png",
-        "overlay_alpha": 125
+        "overlay_alpha": 125,
+        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Backgrounds\/BlurpleTwilightGradient.png"
     },
     "fonts": {
-        "*": "https:\/\/github.com\/miwooscatrisadinha\/twilightblue\/raw\/refs\/heads\/main\/gg_sans_semibold.ttf"
+        "*": "https:\/\/github.com\/miwooscatrisadinha\/twilightblue\/raw\/refs\/heads\/main\/Font\/gg_sans_semibold.ttf"
     },
     "simple_colors": {
         "accent": -14346056,
