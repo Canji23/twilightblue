@@ -6,11 +6,11 @@
         "updater": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Blue%20Twilight.json"
     },
     "background": {
-        "overlay_alpha": 125,
-        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Backgrounds\/BlurpleTwilightGradient.png"
+        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/twilightblue\/refs\/heads\/main\/Backgrounds\/BlurpleTwilightGradient.png",
+        "overlay_alpha": 80
     },
     "fonts": {
-        "*": "https:\/\/github.com\/miwooscatrisadinha\/twilightblue\/raw\/refs\/heads\/main\/Font\/gg_sans_semibold.ttf"
+        "*": "https:\/\/github.com\/miwooscatrisadinha\/twilightblue\/raw\/refs\/heads\/main\/Font\/GGSANS_Semibold.ttf"
     },
     "simple_colors": {
         "accent": -14346056,
