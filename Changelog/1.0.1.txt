@@ -1,3 +1,4 @@
 12/01/2024 10:02 PM
 1.0.1:
 Patched the font, so will not look messy
+Adjusted the background overlay_alpha from 100 to 80, so it will be a little bit more brighter (you can set it to 0 to be more dark)
